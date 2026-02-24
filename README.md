@@ -1,10 +1,5 @@
 # LLMOne 🤖
 
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.9-green?style=for-the-badge&logo=spring-boot)
-![Spring AI](https://img.shields.io/badge/Spring_AI-1.1.2-blue?style=for-the-badge&logo=spring)
-![Docker](https://img.shields.io/badge/Docker-Enabled-blue?style=for-the-badge&logo=docker)
-
 **LLMOne** is a powerful Spring Boot application that unifies access to multiple Large Language Models (LLMs) under a single, easy-to-use interface. It leverages **Spring AI** to connect with top-tier models from Google, OpenAI, Nvidia, and DeepSeek.
 
 ## ✨ Features
