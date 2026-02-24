@@ -20,7 +20,7 @@
 
 ### Web Interface
 
-Open your browser and navigate to `http://localhost:8080` to use the chat interface.
+Open your browser and navigate to `llmone.onrender.com` to use the chat interface.
 
 ### API Endpoints
 
